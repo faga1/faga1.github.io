@@ -17,7 +17,8 @@ module.exports = {
           'webpack',
           'react',
           'interview',
-          'commonjs&esmodule'
+          'commonjs&esmodule',
+          'remark'
         ]
       }
     }
